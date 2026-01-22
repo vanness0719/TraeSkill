@@ -49,59 +49,59 @@ Trae 会自动索引 `.trae/Skills` 下的所有 Markdown 文件。
 
 ### 💡 01. Product Manager (产品经理)
 **目标**: 将模糊的想法转化为清晰的需求。
-- **[01_ProductManager_Brainstorming](./Skills/01_ProductManager_Brainstorming/SKILL.md)**: 深度头脑风暴与需求挖掘。
+- **[01_ProductManager_Brainstorming](.trae/Skills/01_ProductManager_Brainstorming/SKILL.md)**: 深度头脑风暴与需求挖掘。
 
 ### 📐 02. Architect & Designer (架构与设计)
 **目标**: 确立技术方案与视觉规范.
-- **[02_Architect_APIDesign](./Skills/02_Architect_APIDesign/SKILL.md)**: REST/GraphQL API 设计专家。
-- **[02_Designer_WebGuidelines](./Skills/02_Designer_WebGuidelines/SKILL.md)**: Vercel 级 Web 设计规范。
-- **[02_Designer_FrontendImplementation](./Skills/02_Designer_FrontendImplementation/SKILL.md)**: 前端落地设计指南。
+- **[02_Architect_APIDesign](.trae/Skills/02_Architect_APIDesign/SKILL.md)**: REST/GraphQL API 设计专家。
+- **[02_Designer_WebGuidelines](.trae/Skills/02_Designer_WebGuidelines/SKILL.md)**: Vercel 级 Web 设计规范。
+- **[02_Designer_FrontendImplementation](.trae/Skills/02_Designer_FrontendImplementation/SKILL.md)**: 前端落地设计指南。
 
 ### 💻 03. Client Developer (客户端开发)
 **目标**: 构建高质量的用户界面。
-- **[03_Developer_ReactBestPractices](./Skills/03_Developer_ReactBestPractices/SKILL.md)**: React/Next.js 性能与规范专家。
-- **[03_Developer_ArtifactsBuilder](./Skills/03_Developer_ArtifactsBuilder/SKILL.md)**: 现代 UI 组件构建器。
-- **[03_Mobile_Flutter](./Skills/03_Mobile_Flutter/SKILL.md)**: Flutter 整洁架构与性能优化专家。
+- **[03_Developer_ReactBestPractices](.trae/Skills/03_Developer_ReactBestPractices/SKILL.md)**: React/Next.js 性能与规范专家。
+- **[03_Developer_ArtifactsBuilder](.trae/Skills/03_Developer_ArtifactsBuilder/SKILL.md)**: 现代 UI 组件构建器。
+- **[03_Mobile_Flutter](.trae/Skills/03_Mobile_Flutter/SKILL.md)**: Flutter 整洁架构与性能优化专家。
 
 ### 🧪 04. Tester / QA (测试与自动化)
 **目标**: 确保软件质量与自动化执行。
-- **[04_Tester_BrowserAutomation](./Skills/04_Tester_BrowserAutomation/SKILL.md)**: 浏览器自动化操作与测试。
+- **[04_Tester_BrowserAutomation](.trae/Skills/04_Tester_BrowserAutomation/SKILL.md)**: 浏览器自动化操作与测试。
 
 ### ⚙️ 05. Backend & DevOps (后端与运维)
 **目标**: 构建稳固的后端服务与部署流程。
-- **[05_Backend_Python](./Skills/05_Backend_Python/SKILL.md)**: FastAPI、异步编程与性能优化。
-- **[05_Backend_Node](./Skills/05_Backend_Node/SKILL.md)**: Node.js 架构模式。
-- **[05_Backend_Database](./Skills/05_Backend_Database/SKILL.md)**: SQL 优化与数据库迁移。
-- **[05_Backend_MCPBuilder](./Skills/05_Backend_MCPBuilder/SKILL.md)**: MCP Server 构建专家。
-- **[05_DevOps_GitOps](./Skills/05_DevOps_GitOps/SKILL.md)**: Kubernetes GitOps 部署流。
-- **[05_DevOps_GitWorkflow](./Skills/05_DevOps_GitWorkflow/SKILL.md)**: Git 提交规范、GitHub/Gitee 平台协作指南。
+- **[05_Backend_Python](.trae/Skills/05_Backend_Python/SKILL.md)**: FastAPI、异步编程与性能优化。
+- **[05_Backend_Node](.trae/Skills/05_Backend_Node/SKILL.md)**: Node.js 架构模式。
+- **[05_Backend_Database](.trae/Skills/05_Backend_Database/SKILL.md)**: SQL 优化与数据库迁移。
+- **[05_Backend_MCPBuilder](.trae/Skills/05_Backend_MCPBuilder/SKILL.md)**: MCP Server 构建专家。
+- **[05_DevOps_GitOps](.trae/Skills/05_DevOps_GitOps/SKILL.md)**: Kubernetes GitOps 部署流。
+- **[05_DevOps_GitWorkflow](.trae/Skills/05_DevOps_GitWorkflow/SKILL.md)**: Git 提交规范、GitHub/Gitee 平台协作指南。
 
 ### 📂 06. Office Utilities (办公助手)
 **目标**: 处理复杂的办公文档。
-- **[06_Office_Docx](./Skills/06_Office_Docx/SKILL.md)**: Word 文档处理。
-- **[06_Office_Excel](./Skills/06_Office_Excel/SKILL.md)**: Excel 数据分析。
-- **[06_Office_Pdf](./Skills/06_Office_Pdf/SKILL.md)**: PDF 处理与提取。
+- **[06_Office_Docx](.trae/Skills/06_Office_Docx/SKILL.md)**: Word 文档处理。
+- **[06_Office_Excel](.trae/Skills/06_Office_Excel/SKILL.md)**: Excel 数据分析。
+- **[06_Office_Pdf](.trae/Skills/06_Office_Pdf/SKILL.md)**: PDF 处理与提取。
 
 ### 🛡️ 07. Security Specialist (安全专家)
 **目标**: 保障应用与数据安全。
-- **[07_Security_Specialist](./Skills/07_Security_Specialist/SKILL.md)**: 认证、GDPR 与安全需求。
+- **[07_Security_Specialist](.trae/Skills/07_Security_Specialist/SKILL.md)**: 认证、GDPR 与安全需求。
 
 ### 🤖 08. AI Engineer (AI 工程师)
 **目标**: 构建 LLM 应用。
-- **[08_AI_Engineer](./Skills/08_AI_Engineer/SKILL.md)**: RAG 与 LangChain 架构。
+- **[08_AI_Engineer](.trae/Skills/08_AI_Engineer/SKILL.md)**: RAG 与 LangChain 架构。
 
 ### 📈 09. Operations & Growth (运营与增长)
 **目标**: 提升用户增长与运营效率。
-- **[09_Operations_Growth](./Skills/09_Operations_Growth/SKILL.md)**: 内容创作、数据分析与活动策划。
+- **[09_Operations_Growth](.trae/Skills/09_Operations_Growth/SKILL.md)**: 内容创作、数据分析与活动策划。
 
 ### 🌟 99. Meta Skills (元能力)
 **目标**: 扩展与协作。
-- **[99_Meta_SkillCreator](./Skills/99_Meta_SkillCreator/SKILL.md)**: 创建新的 Skills。
-- **[99_Meta_Customization](./Skills/99_Meta_Customization/SKILL.md)**: 用户偏好设置与自定义配置指南。
-- **[universal-dev-team](./Skills/universal-dev-team/SKILL.md)**: 全能开发团队编排器。
+- **[99_Meta_SkillCreator](.trae/Skills/99_Meta_SkillCreator/SKILL.md)**: 创建新的 Skills。
+- **[99_Meta_Customization](.trae/Skills/99_Meta_Customization/SKILL.md)**: 用户偏好设置与自定义配置指南。
+- **[universal-dev-team](.trae/Skills/universal-dev-team/SKILL.md)**: 全能开发团队编排器。
 
 ---
 
 ## 🛠️ 维护指南
 
-本目录包含所有已整理的最佳实践技能。如需添加新技能，请参考 [99_Meta_SkillCreator](./Skills/99_Meta_SkillCreator/SKILL.md)。
+本目录包含所有已整理的最佳实践技能。如需添加新技能，请参考 [99_Meta_SkillCreator](.trae/Skills/99_Meta_SkillCreator/SKILL.md)。

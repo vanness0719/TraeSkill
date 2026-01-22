@@ -58,25 +58,25 @@ graph TD
 ## 📚 技能全景图 (Skill Catalog)
 
 ### 💡 01-02. 需求与设计
-- **[产品头脑风暴](./Skills/01_ProductManager_Brainstorming/SKILL.md)**: 拒绝模糊需求，深度挖掘痛点。
-- **[API 设计专家](./Skills/02_Architect_APIDesign/SKILL.md)**: REST/GraphQL 契约优先开发。
-- **[Web 设计规范](./Skills/02_Designer_WebGuidelines/SKILL.md)**: 让 AI 也能写出 Vercel 级别的精致 UI。
+- **[产品头脑风暴](.trae/Skills/01_ProductManager_Brainstorming/SKILL.md)**: 拒绝模糊需求，深度挖掘痛点。
+- **[API 设计专家](.trae/Skills/02_Architect_APIDesign/SKILL.md)**: REST/GraphQL 契约优先开发。
+- **[Web 设计规范](.trae/Skills/02_Designer_WebGuidelines/SKILL.md)**: 让 AI 也能写出 Vercel 级别的精致 UI。
 
 ### 💻 03-05. 开发与运维
-- **[React 性能大师](./Skills/03_Developer_ReactBestPractices/SKILL.md)**: 极致的渲染优化与状态管理。
-- **[Flutter 专家](./Skills/03_Mobile_Flutter/SKILL.md)**: 整洁架构落地，一套代码丝滑双端。
-- **[后端与数据库](./Skills/05_Backend_Database/SKILL.md)**: SQL 优化、异步模式与 MCP Server 构建。
-- **[GitOps 工作流](./Skills/05_DevOps_GitOps/SKILL.md)**: 提交即部署，自动化运维闭环。
+- **[React 性能大师](.trae/Skills/03_Developer_ReactBestPractices/SKILL.md)**: 极致的渲染优化与状态管理。
+- **[Flutter 专家](.trae/Skills/03_Mobile_Flutter/SKILL.md)**: 整洁架构落地，一套代码丝滑双端。
+- **[后端与数据库](.trae/Skills/05_Backend_Database/SKILL.md)**: SQL 优化、异步模式与 MCP Server 构建。
+- **[GitOps 工作流](.trae/Skills/05_DevOps_GitOps/SKILL.md)**: 提交即部署，自动化运维闭环。
 
 ### 📂 06-08. 垂直领域
-- **[办公自动化](./Skills/06_Office_Docx/SKILL.md)**: 深度操作 Word/Excel/PDF。
-- **[安全审计](./Skills/07_Security_Specialist/SKILL.md)**: GDPR 合规与 Auth 安全扫描。
-- **[AI 工程化](./Skills/08_AI_Engineer/SKILL.md)**: RAG 架构与 Agent 编排。
+- **[办公自动化](.trae/Skills/06_Office_Docx/SKILL.md)**: 深度操作 Word/Excel/PDF。
+- **[安全审计](.trae/Skills/07_Security_Specialist/SKILL.md)**: GDPR 合规与 Auth 安全扫描。
+- **[AI 工程化](.trae/Skills/08_AI_Engineer/SKILL.md)**: RAG 架构与 Agent 编排。
 
 ---
 
 ## 🤝 贡献与反馈
 
-本库深度集成了 **Anthropic**、**Vercel** 及 **Composio** 的开源精华。如果你有更好的最佳实践，欢迎通过 [99_Meta_SkillCreator](./Skills/99_Meta_SkillCreator/SKILL.md) 提交你的 PR！
+本库深度集成了 **Anthropic**、**Vercel** 及 **Composio** 的开源精华。如果你有更好的最佳实践，欢迎通过 [99_Meta_SkillCreator](.trae/Skills/99_Meta_SkillCreator/SKILL.md) 提交你的 PR！
 
 > **提示**: 别忘了在 Trae 设置中通过 [Trae_Skills_使用指南.md](./Trae_Skills_使用指南.md) 配置你的专属 Agent！
