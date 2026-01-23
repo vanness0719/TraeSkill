@@ -16,8 +16,8 @@
 
 > 🚀 **升级提示 (Upgrade Notice)**
 >
-> 寻找更通用的版本？请访问我们全新的 **[AgenticFlow](https://github.com/your-username/agenticFlow)** 项目。
-> AgenticFlow 继承了 TraeSkill 的核心能力，并扩展了对 **Cursor**, **VS Code**, **Windsurf** 的支持，是新一代的 **标准化 AI 技能库 (AI Skill Library)**。
+> 寻找更通用的版本？请访问我们全新的 **[AgenticFlow-Skills](https://github.com/your-username/agenticflow-skills)** 项目。
+> AgenticFlow-Skills 继承了 TraeSkill 的核心能力，并扩展了对 **Cursor**, **VS Code**, **Windsurf** 的支持，是新一代的 **标准化 AI 技能库 (AI Skill Library)**。
 
 ---
 
