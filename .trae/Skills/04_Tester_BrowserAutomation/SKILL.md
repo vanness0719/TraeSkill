@@ -18,6 +18,7 @@ license: Complete terms in LICENSE.txt
 ### 推荐 MCP 工具
 *   **Puppeteer/Playwright MCP**: 允许 AI 直接控制浏览器进行视觉验证和交互测试。
 *   **Filesystem MCP**: 用于保存测试截图和日志报告。
+*   **mcp-feedback-enhanced**: 允许 AI 在编写测试脚本前，使用 `ask_followup_question` 确认关键的测试路径或断言条件。
 
 ---
 

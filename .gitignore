@@ -1,0 +1,47 @@
+# Dependency directories
+node_modules/
+dist/
+build/
+bin/
+obj/
+
+# OS files
+.DS_Store
+Thumbs.db
+*.swp
+*.bak
+
+# Log files
+*.log
+logs/
+
+# Local configuration
+.env
+.env.*
+!.env.example
+
+# IDE settings
+.idea/
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
+!.vscode/launch.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+.pytest_cache/
+
+# Flutter/Dart
+.dart_tool/
+.pub-cache/
+.packages
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# Trae (Ensure .trae/Skills are NOT ignored)
+#.trae/

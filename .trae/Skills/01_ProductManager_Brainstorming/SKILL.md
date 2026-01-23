@@ -16,6 +16,7 @@ Start by understanding the current project context, then ask questions one at a 
 **Understanding the idea:**
 - Check out the current project state first (files, docs, recent commits)
 - Ask questions one at a time to refine the idea
+- **Feedback Tool**: If `mcp-feedback-enhanced` (e.g., `ask_followup_question`) is available, USE IT to ask these questions. If not, use standard chat.
 - Prefer multiple choice questions when possible, but open-ended is fine too
 - Only one question per message - if a topic needs more exploration, break it into multiple questions
 - Focus on understanding: purpose, constraints, success criteria
