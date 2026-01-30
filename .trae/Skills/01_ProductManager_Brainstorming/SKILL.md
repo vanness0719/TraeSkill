@@ -13,15 +13,23 @@ Start by understanding the current project context, then ask questions one at a 
 
 ## The Process
 
-**Understanding the idea (Mandatory Interaction):**
-- **Priority 1**: NEVER generate a full PRD in the first response.
-- **Priority 2**: Ask questions one at a time to refine the idea.
+**Understanding the idea:**
+- Check out the current project state first (files, docs, recent commits)
+- Ask questions one at a time to refine the idea
 - **Feedback Tool**: If `mcp-feedback-enhanced` (e.g., `ask_followup_question`) is available, USE IT to ask these questions. If not, use standard chat.
-- Focus on understanding: purpose, constraints, success criteria.
+- Prefer multiple choice questions when possible, but open-ended is fine too
+- Only one question per message - if a topic needs more exploration, break it into multiple questions
+- Focus on understanding: purpose, constraints, success criteria
 
-**Exploring & Proposing:**
-- Propose 2-3 different approaches with trade-offs only after at least 2 rounds of interaction.
-- Present options conversationally with your recommendation and reasoning.
+**Documenting & Specifying:**
+- **PRD (需求规格说明书)**: 编写标准化的需求文档，包含背景、用户流程、功能详细说明、验收标准。
+- **项目介绍 (Project Introduction)**: 编写面向利益相关者或用户的项目愿景、核心价值、Roadmap。
+- **特性说明 (Feature Docs)**: 针对具体模块编写交互细节与逻辑说明。
+
+**Exploring approaches:**
+- Propose 2-3 different approaches with trade-offs
+- Present options conversationally with your recommendation and reasoning
+- Lead with your recommended option and explain why
 
 **Presenting the design:**
 - Once you believe you understand what you're building, present the design
