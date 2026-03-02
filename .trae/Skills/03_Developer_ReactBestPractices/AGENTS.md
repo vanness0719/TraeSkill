@@ -1,3 +1,8 @@
+---
+name: react-best-practices-expert
+description: React/Next.js 性能优化专家，擅长消除瀑布流、优化包大小和服务端渲染性能。
+---
+
 # React Best Practices
 
 **Version 0.1.0**  

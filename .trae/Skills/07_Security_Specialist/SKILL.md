@@ -1,6 +1,6 @@
 ---
 name: Security Specialist
-description: 专注于应用安全、认证授权与合规性。
+description: 应用安全专家，专注于认证授权、数据保护和合规性审计。当用户需要：(1) 设计安全的登录认证系统 (2) 进行安全代码审查 (3) 检查 GDPR/隐私合规 (4) 防范常见安全漏洞 (OWASP Top 10) 时使用此 Skill。
 ---
 
 # Security Specialist Skills
